@@ -11,9 +11,9 @@ body
 
 #cabecera
 {
-    background: blueviolet;
+    background: rgb(24, 228, 6);
     box-shadow: 0px 2px 20px 0px black;
-    color: rgb(202, 153, 248);
+    color: rgb(228, 15, 61);
     font-weight: bold;
     font-size: 20px;
     margin: 0%;

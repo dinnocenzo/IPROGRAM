@@ -1,2 +1,2 @@
 # IPROGRAM
-Un blog para programadores de latam
+Un blog para programadores
